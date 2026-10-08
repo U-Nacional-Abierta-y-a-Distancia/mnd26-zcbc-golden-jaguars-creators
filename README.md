@@ -2,16 +2,20 @@
   <img src="assets/encabezado.png" alt="UNAD, Universidad Nacional Abierta y a Distancia, y Segundas Olimpiadas Unadistas 2026" width="560">
 </p>
 
-# Nombre del proyecto
+# TUNJOMANIA: Guerreros de Sie
 
 > Maratón de Innovación en Narrativas Digitales · Segundas Olimpiadas Unadistas 2026 · Fase zonal
 
 | Campo | Respuesta |
 |---|---|
-| Equipo | |
-| Zona / Centro(s) | |
-| Tipo de producto (Tabla 1 del documento técnico) | |
-| Integrantes (solo nombres completos) | |
+| Equipo | Golden Jaguars Creators |
+| Zona / Centro(s) | ZCBC - CCAV Facatativa |
+| Tipo de producto (Tabla 1 del documento técnico) | Videojuegos / Juegos Serios (Serious Games)  |
+| Integrantes (solo nombres completos) | Laura Yiseth Reyes Arias
+Nataly Guzmán Sáenz
+Laura Villa
+Emily Sarmiento
+Alberto Barrero Fontecha |
 | Enlace al demo web (si aplica) | |
 
 **No escriba aquí cédulas, teléfonos ni correos.** Este repositorio se hace público el viernes 9 de octubre a las 12:00 m.
