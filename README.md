@@ -18,6 +18,12 @@
 
 ## ¿De qué trata? (máximo 5 líneas)
 
+TUNJOMANIA: Guerreros de Sie es una propuesta de videojuego narrativo e interactivo que busca promover la conciencia ambiental sobre el cuidado y la conservación de los recursos hídricos en el municipio de Facatativá, Cundinamarca.
+El videojuego plantea un recorrido por diferentes escenarios relacionados con la vida cotidiana y el territorio, navegando por hogares facatativeños, zonas agrícolas, espacio naturales y entornos de producción y consumo.
+A través de misiones, desafíos y decisiones interactivas, los jugadores podrán reconocer cómo las acciones individuales influyen en el consumo de agua y cómo las decisiones colectivas pueden contribuir a su conservación.
+
+Los personajes inspirados en la tradición muisca acompañarán la experiencia narrativa y ayudarán a contextualizar los desafíos ambientales.
+
 ## Cómo ver o probar el producto
 
 - **Demo web:** si su producto se ve en el navegador (web, scrollytelling, WebGL), ponga los archivos en la carpeta `docs/`, con un `index.html` en `docs/`. Quedará en `https://u-nacional-abierta-y-a-distancia.github.io/<nombre-de-este-repositorio>/`.
