@@ -26,7 +26,7 @@ A través de misiones, desafíos y decisiones interactivas, los jugadores podrá
 
 - **Demo web:** si su producto se ve en el navegador (web, scrollytelling, WebGL), ponga los archivos en la carpeta `docs/`, con un `index.html` en `docs/`. Quedará en `https://u-nacional-abierta-y-a-distancia.github.io/<nombre-de-este-repositorio>/`.
 - **Archivos pesados** (video del pitch, builds, audio): van en el Release **entrega-zonal** (botón *Releases*, a la derecha).
-- Instrucciones para ejecutarlo (si aplica):
+- Instrucciones para ejecutarlo (si aplica): El videojuego narrativo esta diseñado para ser ejecutado en computadora. Para poder jugarlo, descarga el ejecutable, extrae el zip y busca el archivo llamado "Tunjomania.exe". Sigue estos pasos y disfruta de una experiencia inmersiva por las calles de Facatativá.
 
 ## Créditos de recursos de terceros
 
