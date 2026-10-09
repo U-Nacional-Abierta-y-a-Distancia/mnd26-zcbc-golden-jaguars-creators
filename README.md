@@ -31,8 +31,8 @@ A través de misiones, desafíos y decisiones interactivas, los jugadores podrá
 ## Créditos de recursos de terceros
 
 | Recurso | Autor | Licencia o autorización |
-|Fotografía Embalse de Mancilla utilizada como fondo en la cinemática.|Autor: elColombiano|Referencia: https://www.elcolombiano.com/colombia/facatativa-escasez-agua-fenomeno-el-nino-IF41003038|
-| | | |
+|---|---|---|
+|Fotografía Embalse de Mancilla utilizada como fondo en la cinemática. |Autor: elColombiano |Referencia: https://www.elcolombiano.com/colombia/facatativa-escasez-agua-fenomeno-el-nino-IF41003038 |
 
 ## Derechos
 
